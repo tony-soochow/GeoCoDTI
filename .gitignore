@@ -4,7 +4,7 @@ __pycache__/
 .venv/
 venv/
 
-var_data/
+var_data/drkg.tsv
 var_model/
 var_models/
 var_pkls/
