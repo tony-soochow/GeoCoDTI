@@ -1,0 +1,11 @@
+torch
+dgl
+dgllife
+fair-esm
+numpy
+pandas
+scikit-learn
+scipy
+rdkit
+networkx
+tqdm
